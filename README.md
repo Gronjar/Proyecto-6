@@ -12,4 +12,6 @@ Se crearon :
 
 Histograma: Muestra un histograma de la columna odometer(Kilometraje) del conjunto de datos, permitiendo visualizar la distribución dekilometraje del vehiculo
 
-Gráfico de Dispersión: Muestra un gráfico de dispersión que compara los odómetros (odometer) con los precios (price) de los vehículos, proporcionando una visualización de cómo se distribuyen estos valores.
+Gráfico de Dispersión: Muestra un gráfico de dispersión que compara los odómetros (odometer) con los precios (price) de los vehículos, proporcionando una visualización de cómo se distribuyen estos valores
+
+El enlace "RENDER" https://proyecto-6-2pou.onrender.com
